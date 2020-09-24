@@ -2,7 +2,8 @@
 US Citizen, EU & Brazil Residency.
 
 Senior level technical manager who has held diverse roles as CTO, Directory of Technology, & Vice President of Technical Product Management
-____
+
+
 ## About my skills
 - I enjoy assessing business requirements and constraints, comparing technology options, and making technology decisions rapidly for a wide range of systems and needs 
 	- Overall architecture design
