@@ -1,7 +1,7 @@
 # Neal John Bozeman - CTO & VP of Software Engineering
 US Citizen, EU & Brazil Residency.
 
-Senior level technical manager who has held diverse roles as CTO, Directory of Technology, & Vice President of Technical Product Management
+Senior level technical manager who has held diverse roles as CTO, Directory of Technology, & Vice President of Technical Product Management. I love to bootstrap, and move fast.
 
 
 ## About my skills
@@ -55,3 +55,13 @@ artistic achievement but is not limited to it.
 7. **Social intelligence**
 Being aware of the motives/feelings of others and oneself; knowing what to do to fit into different social situations; knowing what makes other people tick.
 
+### View my complete history and qualifications on LinkedIn  
+[https://www.linkedin.com/in/nealbozeman/](https://www.linkedin.com/in/nealbozeman/)
+
+
+### "Fun" facts
+I've been a digital nomad since 2007, and have lived all around the world. I speak Spanish, Portuguese, and Romanian. Poorly. 
+
+I'm involved in several startup and bootstrapping communities.
+
+I moved to Seattle when I was 17 to join my first startup.
