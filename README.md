@@ -29,7 +29,7 @@ Senior level technical manager who has held diverse roles as CTO, Directory of T
 | Devops, CI, Sysops, bash, git | High
 | Python, Jupyter, ML/AI (Keras, PyTorch) | Proficient
 | Java, Kotlin, webpack | Proficient
-| ElasticSearch, Redis | Profiecient
+| ElasticSearch, Redis | Proficient
 | AWS, Docker, Swarm | Proficient-to-High
 | Written & Spoken communcation | High
 | Planning, strategy | High
